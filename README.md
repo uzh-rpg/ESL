@@ -39,7 +39,7 @@ If you use this code in an academic context, please cite the following work:
 
 ## Data pre-processing
 The recordings are available in numpy file format [here](http://rpg.ifi.uzh.ch/esl.html)
-You can downlaoad the `city_of_lights` events file from [here](https://download.ifi.uzh.ch/rpg/web/data/esl/dataset/static/events_02.zip).
+You can downlaoad the `city_of_lights` events file from [here](http://rpg.ifi.uzh.ch/data/esl/static/city_of_lights/scans_np.zip).
 Please unzip it and ensure the data is organized as follows:
 ```bash
 -dataset
