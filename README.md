@@ -90,3 +90,10 @@ Fill rate: 0.9178120881189983
 RMSE: 1.160292387864739
 =======================================================================
 ```
+
+<a name="ref"></a>
+## Additional resources on Event Cameras
+* [Event-based Vision Survey](http://rpg.ifi.uzh.ch/docs/EventVisionSurvey.pdf)
+* [List of Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
+* [RPG research page on Event Cameras](http://rpg.ifi.uzh.ch/research_dvs.html)
+* [E2Calib: How to Calibrate Your Event Camera](https://github.com/uzh-rpg/e2calib)
