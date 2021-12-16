@@ -181,7 +181,7 @@ def main():
         plt.show()
         
         depth_optim = depth_optimization(depth_init, cam_image, proj_image, args.w, e3d_setup)
-        depth_optim = cv2.bilateralFilter(depth_init, 5, 3, 3)
+        depth_optim = cv2.bilateralFilter(depth_optim, 5, 3, 3)
         depth_optim = ut.denoise_tv(depth_optim, mu=0.5)
         np.save(os.path.join(depth_dir, 'scans'+str(i).zfill(3)+'.npy'), depth_optim)
 
