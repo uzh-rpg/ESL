@@ -3,7 +3,7 @@
 ### Video (click on the image)
 [![ESL: Event-based Structured Light](videos/fan.gif)](https://youtu.be/SITmvZ8VLfs)
 
-This is the code for the 2021 3DV paper [**ESL: Event-based Structured Light**](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL.pdf) by [Manasi Muglikar](https://scholar.google.com/citations?user=LCn8KygAAAAJ&hl=en), [Guillermo Gallego](http://www.guillermogallego.es), and [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html).
+This is the code for the 2021 3DV paper [**ESL: Event-based Structured Light**](http://rpg.ifi.uzh.ch/docs/3DV21_Muglikar_ESL.pdf) by [Manasi Muglikar](https://manasi94.github.io/), [Guillermo Gallego](http://www.guillermogallego.es), and [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html).
 
 
 
